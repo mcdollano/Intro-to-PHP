@@ -1,0 +1,76 @@
+body {
+	margin: 0 auto;
+}
+
+.affix {
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+header {
+	background: url(../img/ES.jpg);
+	background-size: cover;
+	background-position: center top;
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+}
+
+.navbar-brand {
+	color: skyblue;
+	font-size: 30px;
+}
+
+.navbar-brand:hover {
+	color: tomato;
+}
+
+.navbar-one {
+  border-radius: 0;
+  background: rgba(255,255,255,0.1);
+}
+
+.navbar-one ul li a {
+	font-size: 18px;
+	color: black;
+}
+
+.navbar-one ul li a:hover {
+	font-size: 18px;
+	color: tomato;
+}
+
+.navbar ul li a {
+	text-transform: uppercase;
+}
+
+button .icon-bar {
+	background-color: black;
+}
+
+.banner-caption {
+	color: white;
+	font-family: 'Montserrat Subrayada', sans-serif;
+	padding: 20%;
+}
+
+.banner-caption h1 {
+	font-size: 45px;
+
+}
+
+
+.navbar-two {
+	margin-bottom: 0;
+	background: grey;
+	border-radius: 0;
+	font-family: 'Dosis', san-serif
+}
+
+.navbar-two ul li a {
+	color: black;
+}
+
+.navbar-two ul li a:hover {
+	color: black;
+}
